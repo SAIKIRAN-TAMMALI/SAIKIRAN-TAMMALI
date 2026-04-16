@@ -1,6 +1,6 @@
 # Hi, I'm Saikiran Tammali 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/saikiran-tammali](https://www.linkedin.com/in/saikiran-tammali-cybersec32))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/saikiran-tammali](https://www.linkedin.com/in/saikiran-tammali-cybersec32)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIKIRAN-TAMMALI)
 [![Stevens](https://img.shields.io/badge/Stevens_Institute-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.stevens.edu)
 

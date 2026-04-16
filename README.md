@@ -6,13 +6,13 @@
 
 ---
 
-## 🛡️ Cybersecurity Graduate | SOC Engineer | Vulnerability Management
+## 🛡️ Cybersecurity Graduate | Network Analyst | SOC Engineer | Vulnerability Management
 
-> *"Security is not a product, it's a process — and I've spent 2 years living that process at production scale."*
+> *"Security is not a product, it's a process — and I've spent 2 years living that process at production scale during my time at HCLTech."*
 
-I am a **cybersecurity graduate student at Stevens Institute of Technology** (M.S. Cybersecurity, May 2026), simultaneously completing an **Advanced Executive Program in Cybersecurity at IIIT Bangalore**. Before graduate school, I spent **2 years as a Network & Security Analyst at HCLTech** — monitoring 5,000+ enterprise devices 24/7, triaging CVE exposures, managing incident response workflows, and enforcing SLA-driven remediation across 100+ global ISP partners.
+I am a **cybersecurity graduate student at Stevens Institute of Technology** (M.S. Cybersecurity, May 2026), simultaneously completing an **Advanced Executive Program in Cybersecurity at IIIT Bangalore**. Before graduate school, I spent **2 years as a Network Analyst at HCLTech** — monitoring 5,000+ enterprise devices 24/7, triaging CVE exposures, managing incident response workflows, and enforcing SLA-driven remediation across 100+ global ISP partners.
 
-I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management**, and **Security Operations** in the US market.
+I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management**, and **Security Operations** in United States.
 
 ---
 

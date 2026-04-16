@@ -139,7 +139,7 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
 
 I am actively seeking **full-time SOC, Vulnerability Management, and Security Operations roles** in the US (OPT/STEM authorized through 2029).
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikiran-tammali-cybersec32)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-tammali-cybersec32)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiran.tammali@gmail.com)
 
 ---

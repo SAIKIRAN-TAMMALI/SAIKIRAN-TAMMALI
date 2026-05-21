@@ -91,7 +91,7 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
 
 | Certification | Issuer | Year | Credential |
 | ----------------------------------- | ----------- | ---- | ---------- |
-| **CC – Certified in Cybersecurity** | **ISC2** | **2026** | [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A0B0?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU5ErkJggg==&logoColor=white)](https://www.isc2.org/certifications/cc) |
+| **CC – Certified in Cybersecurity** | **ISC2** | **2026** | [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A0B0?style=flat-square&logoColor=white)](https://github.com/SAIKIRAN-TAMMALI/SAIKIRAN-TAMMALI/blob/main/3010f389-0db6-4052-bfe3-206e7aaa9773.pdf) |
 | **ISC2 Candidate Member** | **ISC2** | **2026** | [![ISC2 Candidate](https://img.shields.io/badge/ISC2-Candidate_Member-1F3A6E?style=flat-square&logoColor=white)](https://www.isc2.org/candidate) |
 | Bits & Bytes of Computer Networking | Google | 2024 | — |
 | Ethical Hacking with AI | Internshala | 2022 | — |

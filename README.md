@@ -31,9 +31,9 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
 
 | Degree                                     | Institution                                 | Status            |
 | ------------------------------------------ | ------------------------------------------- | ----------------- |
-| M.S. Cybersecurity                         | Stevens Institute of Technology, Hoboken NJ | Expected May 2026 |
-| Advanced Executive Program — Cybersecurity | IIIT Bangalore                              | Expected May 2026 |
-| B.Tech, Mechanical Engineering             | Malla Reddy College of Engineering          | May 2022          |
+| M.S. Cybersecurity                         | Stevens Institute of Technology, Hoboken NJ |  May 2026         |
+| Advanced Executive Program — Cybersecurity | IIIT Bangalore                              |  June 2026        |
+| B.Tech, Mechanical Engineering             | Malla Reddy College of Engineering          |  May 2022         |
 
 **Relevant Coursework:** TCP/IP Networking · Cryptography Protocols · Security Privacy & Reliability (CS810) · Advanced UNIX Programming · Enterprise Infrastructure Security · Ethical Hacking & VAPT · Ransomware & Malware Analysis · MITRE ATT&CK · SIEM Engineering
 

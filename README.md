@@ -53,6 +53,10 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
 
 ## 🔬 Projects
 
+### 🛡️ [Web Application VAPT — Simulated FinTech App](https://github.com/SAIKIRAN-TAMMALI/fintech-webapp-vapt) — *Jun 2026 · IIIT Bangalore*
+
+> Black-box vulnerability assessment & penetration test of a deliberately vulnerable FinTech web app. Captured **6 hidden flags** and mapped each weakness to **OWASP Top 10 / CWE** with **CVSS** scoring and remediation guidance — covering anonymous FTP exposure (incl. a leaked PGP key), `robots.txt` data leakage, secrets in source comments, an exposed admin panel, a `phpinfo()` config dump on EOL PHP, and cleartext-HTTP transmission. Delivered a full VA report in professional format. **Tools:** Nmap · Gobuster · dirb · Burp Suite · Kali Linux · VirtualBox.
+
 ### 🐚 [Simple Unix Web Shell](https://github.com/SAIKIRAN-TAMMALI/A-simple-shell.git) — C / NetBSD
 
 > Prototype C-based web shell with HTTP response handling, magic code validation, and dynamic directory path expansion. Demonstrates application-layer attack surface understanding and low-level systems security.

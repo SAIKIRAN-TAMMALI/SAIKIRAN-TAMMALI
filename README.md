@@ -57,13 +57,13 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
 
 > Black-box vulnerability assessment & penetration test of a deliberately vulnerable FinTech web app. Captured **6 hidden flags** and mapped each weakness to **OWASP Top 10 / CWE** with **CVSS** scoring and remediation guidance — covering anonymous FTP exposure (incl. a leaked PGP key), `robots.txt` data leakage, secrets in source comments, an exposed admin panel, a `phpinfo()` config dump on EOL PHP, and cleartext-HTTP transmission. Delivered a full VA report in professional format. **Tools:** Nmap · Gobuster · dirb · Burp Suite · Kali Linux · VirtualBox.
 
-### 🕵️ [Digital Forensics & Steganography — Hidden-Data Recovery from a JPG](projects/digital-forensics-steganography.md) — SilentEye + FTK
+### 🕵️ [Digital Forensics & Steganography — Hidden-Data Recovery from a JPG](https://github.com/SAIKIRAN-TAMMALI/digital-forensics-steganography) — *Course-end Project*
 
-> End-to-end forensics exercise modelled on a **financial-institution data-breach**: text is concealed inside an ordinary JPG with **SilentEye**, stored on a **two-disk 2 GB NTFS** volume, deleted to mimic an attacker covering their tracks, then forensically **recovered and validated** with **FTK Imager** — proving evidence integrity via **MD5 + SHA1** hashing before reconstructing the full-resolution image. **[→ Full walkthrough with screenshots](projects/digital-forensics-steganography.md)**
+> Steganography-to-forensics lifecycle modelled on a **financial-institution data-breach**. Concealed text inside an ordinary JPG with **SilentEye**, stored it on a **two-disk 2 GB NTFS** volume, deleted it to mimic an attacker covering their tracks, then acquired a forensic disk image and **recovered + validated** the file with **FTK Imager** — proving evidence integrity via **MD5 + SHA1** hashing before reconstructing the full-resolution image. **Tools:** SilentEye · FTK Imager · NTFS · MD5/SHA1 · VirtualBox.
 
-### 🎯 [Full-Chain Cyber Intrusion Simulation — Metasploit · Ngrok · Malware Analysis](projects/cyber-intrusion-simulation.md) — Kali → Windows lab
+### 🎯 [Full-Chain Cyber Intrusion Simulation — Metasploit · Ngrok · Malware Analysis](https://github.com/SAIKIRAN-TAMMALI/cyber-intrusion-simulation) — *Course-end Project*
 
-> Complete **authorised** attack chain recreated in an isolated **Kali → Windows Server 2022** lab, then examined from the defender's side: an **msfvenom** reverse-shell payload tunnelled to the internet via **ngrok**, caught in a Metasploit **multi/handler**, disguised as a media file, then validated with **VirusTotal** (29/70 detections) and live **TCPView** monitoring. *No real systems involved.* **[→ Full 10-step walkthrough with screenshots](projects/cyber-intrusion-simulation.md)**
+> Complete **authorised** attack chain recreated in an isolated **Kali → Windows Server 2022** lab, then examined from the defender's side. Built an **msfvenom** reverse-shell payload tunnelled to the internet via **ngrok**, caught it in a Metasploit **multi/handler**, disguised it as a media file, then validated detection on **VirusTotal** (29/70 engines) and monitored the live session with **TCPView**. *No real systems involved.* **Tools:** Metasploit · msfvenom · ngrok · VirusTotal · TCPView · VirtualBox.
 
 ### 🐚 [Simple Unix Web Shell](https://github.com/SAIKIRAN-TAMMALI/A-simple-shell.git) — C / NetBSD
 

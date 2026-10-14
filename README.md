@@ -1,16 +1,16 @@
 # Hi, I'm Saikiran Tammali 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-tammali-cybersec32) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIKIRAN-TAMMALI) [![Stevens](https://img.shields.io/badge/Stevens_Institute-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.stevens.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-tammali/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIKIRAN-TAMMALI) [![Stevens](https://img.shields.io/badge/Stevens_Institute-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.stevens.edu)
 
 ---
 
-## 🛡️ Cybersecurity Graduate | Network Analyst | SOC Engineer | Vulnerability Management
+## 🛡️ Aspiring SOC Analyst | penetration tester | M.S in Cybersecurity | Network Analyst 
 
 > *"Security is not a product, it's a process — and I've spent 2 years living that process at production scale during my time at HCLTech."*
 
-I am a **cybersecurity graduate student at Stevens Institute of Technology** (M.S. Cybersecurity, May 2026), simultaneously completing an **Advanced Executive Program in Cybersecurity at IIIT Bangalore**. Before graduate school, I spent **2 years as a Network Analyst at HCLTech** — monitoring 5,000+ enterprise devices 24/7, triaging CVE exposures, managing incident response workflows, and enforcing SLA-driven remediation across 100+ global ISP partners.
+I am a **cybersecurity graduate of Stevens Institute of Technology** (M.S. Cybersecurity, 2026) and hold a **certification from the Advanced Executive Program in Cybersecurity at IIIT Bangalore**. I bring **2 years of 24/7 operations experience as a Network Analyst at HCLTech**, monitoring 5,000+ network devices for PepsiCo, triaging 200–400 ServiceNow incidents per shift, and supporting CVE remediation across 100+ global ISP partners. I am hands-on with **Splunk, Zeek, Wireshark, Nessus, and Nmap** through lab projects in attack simulation, threat detection, and OWASP Top 10 testing, and I am seeking an **entry-level role focused on alert triage, incident response, and vulnerability management**.
 
-I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management**, and **Security Operations** in United States.
+I am actively pursuing roles in **Security Operations Center(SOC)**, **Incident response and Vulnerability Management**, and **Offensive Security** in United States.
 
 ---
 
@@ -32,7 +32,7 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
 | Degree                                     | Institution                                 | Status            |
 | ------------------------------------------ | ------------------------------------------- | ----------------- |
 | M.S. Cybersecurity                         | Stevens Institute of Technology, Hoboken NJ |  May 2026         |
-| Advanced Executive Program — Cybersecurity | IIIT Bangalore                              |  June 2026        |
+| Advanced Executive Program — Cybersecurity | IIIT Bangalore                              |  Sept 2026        |
 | B.Tech, Mechanical Engineering             | Malla Reddy College of Engineering          |  May 2022         |
 
 **Relevant Coursework:** TCP/IP Networking · Cryptography Protocols · Security Privacy & Reliability (CS810) · Advanced UNIX Programming · Enterprise Infrastructure Security · Ethical Hacking & VAPT · Ransomware & Malware Analysis · MITRE ATT&CK · SIEM Engineering
@@ -123,7 +123,7 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
   <img src="https://raw.githubusercontent.com/SAIKIRAN-TAMMALI/SAIKIRAN-TAMMALI/main/isc2-candidate.png" alt="ISC2 Candidate Badge" width="120"/>
 </a>
 
-> **CC – Certified in Cybersecurity** issued by ISC2 on May 18, 2026. Valid for 3 years. Learner ID: `f02cd1ab-5c1f-4f7b-ae25-e2dc9bc8316c`
+> **CC – Certified in Cybersecurity** ISC2  Expected in November, 2026. Valid for 3 years. Learner ID: `f02cd1ab-5c1f-4f7b-ae25-e2dc9bc8316c`
 
 ---
 

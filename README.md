@@ -65,6 +65,14 @@ I am actively pursuing roles in **SOC Engineering**, **Vulnerability Management*
 
 > Complete **authorised** attack chain recreated in an isolated **Kali → Windows Server 2022** lab, then examined from the defender's side. Built an **msfvenom** reverse-shell payload tunnelled to the internet via **ngrok**, caught it in a Metasploit **multi/handler**, disguised it as a media file, then validated detection on **VirusTotal** (29/70 engines) and monitored the live session with **TCPView**. *No real systems involved.* **Tools:** Metasploit · msfvenom · ngrok · VirusTotal · TCPView · VirtualBox.
 
+### 🔐 [Secure Multi-Party Computation with FRESCO — SPDZ · TinyTables](https://github.com/SAIKIRAN-TAMMALI/secure-mpc-fresco) — *Stevens Institute of Technology*
+
+> Built the **FRESCO** secure multi-party computation framework from source (**Java, Maven**) and implemented a **two-party private sum** where each party's input stayed secret — only **secret shares** crossed the network (inputs 10 + 15 → output 25, neither party saw the other's value). Switched from **TinyTables** (semi-honest) to **SPDZ** (malicious-secure) with a one-line config change, troubleshot a network configuration issue by reading the framework source, and benchmarked FRESCO against **JIFF** and **MP-SPDZ**. **Tools:** Java 8 · Maven · Docker · Git.
+
+### 🧩 [Non-Malleable Cryptography — Commitments & Zero-Knowledge Proofs](https://github.com/SAIKIRAN-TAMMALI/non-malleable-cryptography-analysis) — *Stevens Institute of Technology*
+
+> Research analysis of **Dolev, Dwork & Naor's** *Non-Malleable Cryptography* (SIAM J. Computing). Covers why **semantic security** alone fails in concurrent sessions, **non-malleable string commitments**, **zero-knowledge proofs of knowledge**, and **man-in-the-middle** (transparent prover) attacks — plus a severity-rated review of the schemes' limits, including **O(n²)** communication overhead and composability gaps.
+
 ### 🐚 [Simple Unix Web Shell](https://github.com/SAIKIRAN-TAMMALI/A-simple-shell.git) — C / NetBSD
 
 > Prototype C-based web shell with HTTP response handling, magic code validation, and dynamic directory path expansion. Demonstrates application-layer attack surface understanding and low-level systems security.

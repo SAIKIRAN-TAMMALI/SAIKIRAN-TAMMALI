@@ -8,7 +8,7 @@
 
 > *"Security is not a product, it's a process — and I've spent 2 years living that process at production scale during my time at HCLTech."*
 
-I am a **cybersecurity graduate of Stevens Institute of Technology** (M.S. Cybersecurity, 2026) and hold a **certification from the Advanced Executive Program in Cybersecurity at IIIT Bangalore**. I bring **2 years of 24/7 operations experience as a Network Analyst at HCLTech**, monitoring 5,000+ network devices for PepsiCo, triaging 200–400 ServiceNow incidents per shift, and supporting CVE remediation across 100+ global ISP partners. I am hands-on with **Splunk, Zeek, Wireshark, Nessus, and Nmap** through lab projects in attack simulation, threat detection, and OWASP Top 10 testing, and I am seeking an **entry-level role focused on alert triage, incident response, and vulnerability management**.
+I am a **cybersecurity graduate of Stevens Institute of Technology** (M.S. Cybersecurity, 2026) and hold a **certified in the Advanced Executive Program in Cybersecurity at IIIT Bangalore**. I bring **2 years of 24/7 operations experience as a Analyst at HCLTech**, monitoring 5,000+ network devices for PepsiCo, triaging 200–400 ServiceNow incidents per shift, and supporting CVE remediation across 100+ global ISP partners. I am hands-on with **Splunk, Zeek, Wireshark, Nessus, and Nmap** through lab projects in attack simulation, threat detection, and OWASP Top 10 testing, and I am seeking an **entry-level role focused on alert triage, incident response, and vulnerability management**.
 
 I am actively pursuing roles in **Security Operations Center(SOC)**, **Incident response and Vulnerability Management**, and **Offensive Security** in United States.
 

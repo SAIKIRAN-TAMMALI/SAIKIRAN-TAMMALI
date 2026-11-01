@@ -1,16 +1,16 @@
 # Hi, I'm Saikiran Tammali 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-tammali/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIKIRAN-TAMMALI) [![Stevens](https://img.shields.io/badge/Stevens_Institute-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.stevens.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-tammali/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIKIRAN-TAMMALI) [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-E2231A?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security) [![Stevens](https://img.shields.io/badge/Stevens_Institute-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.stevens.edu)
 
 ---
 
-## 🛡️ Aspiring SOC Analyst | penetration tester | M.S in Cybersecurity | Network Analyst 
+## 🛡️ Aspiring Security & Network Analyst | SOC Analyst | Penetration Tester | M.S. in Cybersecurity
 
 > *"Security is not a product, it's a process — and I've spent 2 years living that process at production scale during my time at HCLTech."*
 
-I am a **cybersecurity graduate of Stevens Institute of Technology** (M.S. Cybersecurity, 2026) and **certified in the Advanced Executive Program in Cybersecurity at IIIT Bangalore**. I bring **2 years of 24/7 operations experience as a Analyst at HCLTech**, monitoring 5,000+ network devices for PepsiCo, triaging 200–400 ServiceNow incidents per shift, and supporting CVE remediation across 100+ global ISP partners. I am hands-on with **Splunk, Zeek, Wireshark, Nessus, and Nmap** through lab projects in attack simulation, threat detection, and OWASP Top 10 testing, and I am seeking an **entry-level role focused on alert triage, incident response, and vulnerability management**.
+I am a **cybersecurity graduate of Stevens Institute of Technology** (M.S. Cybersecurity, 2026), **CompTIA Security+ certified**, and **certified in the Advanced Executive Program in Cybersecurity at IIIT Bangalore**. I bring **2 years of 24/7 operations experience as an Analyst at HCLTech**, monitoring 5,000+ network devices for PepsiCo, triaging 200–400 ServiceNow incidents per shift, and supporting CVE remediation across 100+ global ISP partners. I am hands-on with **Splunk, Zeek, Wireshark, Nessus, Metasploit, and Nmap** through lab projects in attack simulation, threat detection, and OWASP Top 10 testing.
 
-I am actively pursuing roles in **Security Operations Center(SOC)**, **Incident response and Vulnerability Management**, and **Offensive Security** in United States.
+I am **aspiring to grow into a Security & Network Analyst, SOC Analyst, and Penetration Tester**, and I am actively seeking an **entry-level role focused on alert triage, incident response, and vulnerability management** in the United States.
 
 ---
 
@@ -57,7 +57,19 @@ I am actively pursuing roles in **Security Operations Center(SOC)**, **Incident 
 
 > Black-box vulnerability assessment & penetration test of a deliberately vulnerable FinTech web app. Captured **6 hidden flags** and mapped each weakness to **OWASP Top 10 / CWE** with **CVSS** scoring and remediation guidance — covering anonymous FTP exposure (incl. a leaked PGP key), `robots.txt` data leakage, secrets in source comments, an exposed admin panel, a `phpinfo()` config dump on EOL PHP, and cleartext-HTTP transmission. Delivered a full VA report in professional format. **Tools:** Nmap · Gobuster · dirb · Burp Suite · Kali Linux · VirtualBox.
 
-### 🕵️ [Digital Forensics & Steganography — Hidden-Data Recovery from a JPG](https://github.com/SAIKIRAN-TAMMALI/digital-forensics-steganography) 
+### 🖥️ [Network VAPT — SMB Exploitation & Remediation (EternalBlue)](https://github.com/SAIKIRAN-TAMMALI/Performing-Vulnerability-Exploitation-and-Remediation-Strategies) — *IIIT Bangalore*
+
+> Full attack chain against an unpatched **Windows Server 2012 R2** host. **Nmap** recon surfaced an exposed **SMBv1** service with message signing disabled; exploited via **Metasploit EternalBlue (MS17-010)** to a **SYSTEM-level Meterpreter** session, captured the flags, then dumped **NTLM** hashes and cracked them offline with **John the Ripper** — closing with a prioritised remediation plan (patching, SMBv1 removal, signing enforcement, segmentation). **Tools:** Nmap · Metasploit · Meterpreter · John the Ripper · Kali Linux.
+
+### 🔐 [Secure File Storage & Access Management for Project Teams](https://github.com/SAIKIRAN-TAMMALI/Secure-File-Storage-and-Access-Management-for-Project-Teams) — *IIIT Bangalore*
+
+> Hardened a Linux shared-storage environment for finance project teams. Enforced **role-based access with POSIX ACLs** (owner-only write, read-only for everyone else), set **per-role command-history limits**, configured **auditd** watch rules to log every access to the protected directory, and served the audit log via **Apache + cron** for IT review — with all controls persisted across reboots. **Tools:** Linux · POSIX ACLs · auditd · Apache · cron.
+
+### 🏢 [Implementing & Managing Active Directory in Windows Server](https://github.com/SAIKIRAN-TAMMALI/Implementing-and-Managing-Active-Directory-in-Windows-Server) — *IIIT Bangalore*
+
+> Deployed and administered an **Active Directory** domain on **Windows Server 2022**. Promoted a domain controller for `mydomain.local`, structured the domain with **OUs, users, and security groups**, enforced **account-lockout and password policy via GPOs**, joined a client to the domain and verified AD authentication, then applied **logon-hour restrictions, account disabling, and lockout enforcement**. **Tools:** Windows Server 2022 · AD DS · Group Policy · PowerShell.
+
+### 🕵️ [Digital Forensics & Steganography — Hidden-Data Recovery from a JPG](https://github.com/SAIKIRAN-TAMMALI/digital-forensics-steganography)
 
 > Steganography-to-forensics lifecycle modelled on a **financial-institution data-breach**. Concealed text inside an ordinary JPG with **SilentEye**, stored it on a **two-disk 2 GB NTFS** volume, deleted it to mimic an attacker covering their tracks, then acquired a forensic disk image and **recovered + validated** the file with **FTK Imager** — proving evidence integrity via **MD5 + SHA1** hashing before reconstructing the full-resolution image. **Tools:** SilentEye · FTK Imager · NTFS · MD5/SHA1 · VirtualBox.
 
@@ -111,19 +123,11 @@ I am actively pursuing roles in **Security Operations Center(SOC)**, **Incident 
 
 | Certification | Issuer | Year | Credential |
 | ----------------------------------- | ----------- | ---- | ---------- |
-| **CC – Certified in Cybersecurity** | **ISC2** | **2026** | [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A0B0?style=flat-square&logoColor=white)](https://github.com/SAIKIRAN-TAMMALI/SAIKIRAN-TAMMALI/blob/main/3010f389-0db6-4052-bfe3-206e7aaa9773.pdf) |
-| **ISC2 Candidate Member** | **ISC2** | **2026** | [![ISC2 Candidate](https://img.shields.io/badge/ISC2-Candidate_Member-1F3A6E?style=flat-square&logoColor=white)](https://www.isc2.org/candidate) |
+| **CompTIA Security+** | **CompTIA** | **2026** | ![CompTIA Security+](https://img.shields.io/badge/Certified-Oct_25,_2026-E2231A?style=flat-square&logo=comptia&logoColor=white) |
 | Bits & Bytes of Computer Networking | Google | 2024 | — |
 | Ethical Hacking with AI | Internshala | 2022 | — |
-| *(In Progress)* CompTIA Security+ | CompTIA | 2026 | — |
 
-### 🏅 ISC2 Badge
-
-<a href="https://www.isc2.org/candidate" target="_blank">
-  <img src="https://raw.githubusercontent.com/SAIKIRAN-TAMMALI/SAIKIRAN-TAMMALI/main/isc2-candidate.png" alt="ISC2 Candidate Badge" width="120"/>
-</a>
-
-> **CC – Certified in Cybersecurity** ISC2  Expected in November, 2026. Valid for 3 years. Learner ID: `f02cd1ab-5c1f-4f7b-ae25-e2dc9bc8316c`
+> **CompTIA Security+** — certified **October 25, 2026**. Validates baseline skills in threat detection, risk management, incident response, and secure network architecture.
 
 ---
 
@@ -137,9 +141,9 @@ I am actively pursuing roles in **Security Operations Center(SOC)**, **Incident 
 
 ```
 🔴  MITRE ATT&CK detection engineering & threat hunting
-🔵  Splunk SPL — advanced query writing and detection rule development  
+🔵  Splunk SPL — advanced query writing and detection rule development
 ☁️  Cloud security — AWS Security Hub, GuardDuty, CloudTrail analysis
-📋  CompTIA Security+ certification prep
+🔴  Offensive security — deepening VAPT and exploit development skills
 ```
 
 ---

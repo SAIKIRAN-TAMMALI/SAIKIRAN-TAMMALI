@@ -53,6 +53,10 @@ I am **aspiring to grow into a Security & Network Analyst, SOC Analyst, and Pene
 
 ## 🔬 Projects
 
+### 🖥️ [Splunk SOC Home Lab — Detecting a Live SSH Brute-Force Attack](https://github.com/SAIKIRAN-TAMMALI/splunk-soc-home-lab) - *Nov 2026 . Self-directed Home Lab*
+
+> A three-VM home SOC: attack a Linux server from Kali, ship its logs to Splunk with a Universal Forwarder, and catch the attack with SPL and a scheduled alert. Self-directed project to practise SOC analyst and detection-engineering workflows. Work in progress: new detections are added as they are built.
+
 ### 🛡️ [Web Application VAPT — Simulated FinTech App](https://github.com/SAIKIRAN-TAMMALI/fintech-webapp-vapt) — *Jun 2026 · IIIT Bangalore*
 
 > Black-box vulnerability assessment & penetration test of a deliberately vulnerable FinTech web app. Captured **6 hidden flags** and mapped each weakness to **OWASP Top 10 / CWE** with **CVSS** scoring and remediation guidance — covering anonymous FTP exposure (incl. a leaked PGP key), `robots.txt` data leakage, secrets in source comments, an exposed admin panel, a `phpinfo()` config dump on EOL PHP, and cleartext-HTTP transmission. Delivered a full VA report in professional format. **Tools:** Nmap · Gobuster · dirb · Burp Suite · Kali Linux · VirtualBox.

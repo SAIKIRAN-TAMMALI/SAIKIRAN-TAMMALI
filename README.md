@@ -33,7 +33,7 @@ I am **aspiring to grow into a Security & Network Analyst, SOC Analyst, and Pene
 | ------------------------------------------ | ------------------------------------------- | ----------------- |
 | M.S. Cybersecurity                         | Stevens Institute of Technology, Hoboken NJ |  May 2026         |
 | Advanced Executive Program — Cybersecurity | IIIT Bangalore                              |  Sept 2026        |
-| B.Tech, Mechanical Engineering             | Malla Reddy College of Engineering          |  May 2022         |
+| B.Tech, Mechanical Engineering             | Malla Reddy College of Engineering          |                   |
 
 **Relevant Coursework:** TCP/IP Networking · Cryptography Protocols · Security Privacy & Reliability (CS810) · Advanced UNIX Programming · Enterprise Infrastructure Security · Ethical Hacking & VAPT · Ransomware & Malware Analysis · MITRE ATT&CK · SIEM Engineering
 
@@ -41,7 +41,7 @@ I am **aspiring to grow into a Security & Network Analyst, SOC Analyst, and Pene
 
 ## 💼 Experience
 
-### 🏢 HCLTech — Network & Security Analyst *(Sep 2022 – Sep 2024)*
+### 🏢 HCLTech — Network & Security Analyst *(Sep 2020 – Sep 2024)*
 
 - **24/7 SOC monitoring** across 5,000+ routers and switches using Splunk, Wireshark, Nagios, and SevOne
 - **CVE risk prioritization** and patch remediation coordination — 99% SLA adherence maintained
